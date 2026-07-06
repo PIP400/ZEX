@@ -1,0 +1,6 @@
+{
+  "name": "ZEX",
+  "description": "A highly optimized retro 2D Pixel Art Action RPG game with epic boss waves, multiple heroes, procedural graphics, and simulated real-time leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
